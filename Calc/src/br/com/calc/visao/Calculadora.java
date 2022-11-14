@@ -1,5 +1,4 @@
-package visao;
-
+package br.com.calc.visao;
 import java.awt.BorderLayout;
 import java.awt.Dimension;
 

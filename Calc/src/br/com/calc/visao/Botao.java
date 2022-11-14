@@ -1,4 +1,4 @@
-package visao;
+package br.com.calc.visao;
 
 import java.awt.Color;
 import java.awt.Font;
